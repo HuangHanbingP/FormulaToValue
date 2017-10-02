@@ -1,0 +1,1 @@
+This is an Excel Addin convert the contents of a cell that contains a formula so that the calculated value replaces the formula.
